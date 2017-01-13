@@ -1,0 +1,3 @@
+rpmsolutions:
+  build: .
+  dockerfile: Dockerfile
